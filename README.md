@@ -9,6 +9,11 @@
 
 ![Date ideas](https://github.com/user-attachments/assets/899819cd-7243-41ef-b6eb-abc0e724d399)
 
+![uPCOMING EVENTS](https://github.com/user-attachments/assets/e50a0252-ec98-418b-a9cc-8ff64ffc75cf)
+
+![GROUP4](https://github.com/user-attachments/assets/070ee1ba-1025-46b8-b52f-9edeac12e215)
+
+
 ### Key features
 
 - Secure login over HTTPS
