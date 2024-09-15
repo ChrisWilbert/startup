@@ -5,6 +5,10 @@
 
 ## Design
 
+![About Page](https://github.com/user-attachments/assets/fb2ce792-c088-4b64-b4a7-0d77890e32d1)
+
+![Date ideas](https://github.com/user-attachments/assets/899819cd-7243-41ef-b6eb-abc0e724d399)
+
 ### Key features
 
 - Secure login over HTTPS
