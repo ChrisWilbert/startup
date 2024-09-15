@@ -6,13 +6,13 @@
 
 ### Key features
 
--Secure login over HTTPS
--Ability to see all activities 
--Interact with users that added events 
--Add your own activities 
--Sort activites based on dating activity or casual activity 
--Rate someone’s choices based on cost and party size 
--Add ongoing or upcoming parties in the area 
+- Secure login over HTTPS
+- Ability to see all activities 
+- Interact with users that added events 
+- Add your own activities 
+- Sort activites based on dating activity or casual activity 
+- Rate someone’s choices based on cost and party size 
+- Add ongoing or upcoming parties in the area 
 
 ## Technologies
 
